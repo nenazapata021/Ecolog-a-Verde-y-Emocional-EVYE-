@@ -33,6 +33,7 @@ const ideas = [
   {
     numero: "01",
     titulo: "Canasta de botellas recicladas",
+    imagen: "/Canasta Reciclada.jpg",
     descripcion:
       "Crear una canasta hecha de botellas recicladas para arrojar las botellas plásticas que se desocupen en las meriendas, etc.",
   },
